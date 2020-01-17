@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "chayen"
+  },
+  "targets": {
+    "chayen": {
+      "hosting": {
+        "admin-counselling": [
+          "admin-counselling"
+        ]
+      }
+    }
+  }
+}
